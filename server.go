@@ -4,7 +4,7 @@ import (
 
 	"github.com/drone/routes"
     "net/http"
-    "github.com/DhruvKalaria/cmpe273-Assignment2/controllers"
+    "github.com/DhruvKalaria/cmpe273-Assignment2/tree/master/controllers"
     "gopkg.in/mgo.v2"
 )
 

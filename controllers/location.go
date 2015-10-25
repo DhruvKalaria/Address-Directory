@@ -7,7 +7,7 @@ import (
     "encoding/json"
     "gopkg.in/mgo.v2"
     "gopkg.in/mgo.v2/bson"
-    "github.com/DhruvKalaria/cmpe273-Assignment2/models"
+    "github.com/DhruvKalaria/cmpe273-Assignment2/tree/master/models"
     "net/http"
     "time"
 )

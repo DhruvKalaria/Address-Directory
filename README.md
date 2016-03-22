@@ -1,4 +1,4 @@
-# cmpe273-Assignment2
+# Address Directory
 
 This assignment contains RESTful APIs in Golang with the basic CRUD operations. It is a address directory
 where you can add, update, get and delete the address.
